@@ -1,25 +1,18 @@
 <h2 align="center">
 <p align="center">
-  
-  ![SARNAX_copy](https://user-images.githubusercontent.com/94861415/163727117-25549b74-257d-4203-bac6-6618db83b52f.png)
-
 
 ```sh-session
   CHEATING PRIVATE / SPOOFER / SOURCE CODE 
 ```
 
-<p align="center">
-  <a href="https://sarnax.xyz/">
-   <img alt="Github" src="https://img.shields.io/badge/SARNAX.COM-WEBSITE-red"></a> 
+  <p align="center">
+    <a href="https://sarnax.xyz/"><img alt="Github" src="https://img.shields.io/badge/SARNAX.COM-WEBSITE-red"></a> 
   
 
 
-  
+  </p>
 </p>
 03/15/2022
-```sh-session
-  CHEATING PRIVATE / SPOOFER / SOURCE CODE 
-```
 
 <h2 align="center">Languages</h2>
 <p align="center">
