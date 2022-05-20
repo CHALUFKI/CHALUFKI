@@ -13,9 +13,6 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a> 
 </p>
 
-
-<details>
-  <summary>Contact</summary>
-  <a href="https://discord.com/users/705709067037048863"></a>
-</details>
+<a href="https://discord.com/users/705709067037048863">
+  
 </h2>
