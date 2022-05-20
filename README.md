@@ -16,6 +16,6 @@
 
 <details>
   <summary>Contact</summary>
-    <a href="https://discord.com/users/705709067037048863">
+  <a href="https://discord.com/users/705709067037048863"></a>
 </details>
 </h2>
