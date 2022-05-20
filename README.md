@@ -4,13 +4,7 @@
 ```sh-session
   CHEATING PRIVATE / SPOOFER / SOURCE CODE 
 ```
-
-  <p align="center">
-    <a href="https://sarnax.xyz/"><img alt="Github" src="https://img.shields.io/badge/SARNAX.COM-WEBSITE-red"></a> 
   
-
-
-  </p>
 </p>
 03/15/2022
 
@@ -22,6 +16,6 @@
 
 <details>
   <summary>Contact</summary>
- 
+    <a href="https://discord.com/users/705709067037048863">
 </details>
 </h2>
