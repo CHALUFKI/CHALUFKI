@@ -18,4 +18,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=chalufki&show_icons=true&locale=en" alt="chalufki" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHALUFKI)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chalufki)](https://github.com/anuraghazra/github-readme-stats)
