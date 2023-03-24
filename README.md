@@ -12,6 +12,6 @@
 ### Spotify Playing 🎧
 <p align="center">
   <a href="https://open.spotify.com/user/kvrciypoz0mk3pgjos2k4356r">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=kvrciypoz0mk3pgjos2k4356r&cover_image=true&theme=default&bar_color=b9f0b7)](https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=kvrciypoz0mk3pgjos2k4356r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile">
 
 ![Visitor Count](https://profile-counter.glitch.me/CHALUFKI/count.svg)
