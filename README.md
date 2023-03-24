@@ -1,10 +1,4 @@
-<h2 align="center">
-<p align="center">
-  
-👉15.03.2022👈
-
-</h2>
-<h1 align="center">Hi 👋, I'm CHALUFKI</h1>
+<h1 align="center">Hi 👋, I'm CHALUFKI 👉15.03.2022👈</h1>
 <h3 align="center">C++ language enthusiast, currently working in the Dear ImGui library</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chalufki&label=Profile%20views&color=0e75b6&style=flat" alt="chalufki" /> </p>
@@ -22,7 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chalufki&show_icons=true&locale=en&layout=compact" alt="chalufki" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chalufki&show_icons=true&locale=en" alt="chalufki" /></p>
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chalufki&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=chalufki%27s%20Github%20Statistics&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalufki&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
-</p>
