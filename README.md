@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm CHALUFKI 👉15.03.2022👈</h1>
 <h3 align="center">C++ language enthusiast, currently working in the Dear ImGui library</h3>
+<h3 align="center">👉15.03.2022👈</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chalufki&label=Profile%20views&color=0e75b6&style=flat" alt="chalufki" /> </p>
 
