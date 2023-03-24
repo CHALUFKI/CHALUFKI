@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CHALUFKI 👉15.03.2022👈</h1>
+<h1 align="center">Hi 👋, I'm CHALUFKI</h1>
 <h3 align="center">C++ language enthusiast, currently working in the Dear ImGui library</h3>
 <h3 align="center">👉15.03.2022👈</h3>
 
